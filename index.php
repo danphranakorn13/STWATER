@@ -11,7 +11,7 @@
 	$text = $deCode['events'][0]['message']['text'];
 
     $LINEDatas['url'] = "https://api.line.me/v2/bot/message/reply";
-  	$LINEDatas['token'] = "kZG8J6eW1R05gwz68ZkdWl7yPaGygloidwBhEqHoXaTn9c9PTAdm7XXImW5Bed9o7s/Yufj0sfGZJzqCOSGaSE9V/Z5AzBcXrcnZigkESMM4tB9vUGKC09poN3esx+gY1uQO7hNe9APeYO6yHV7ibwdB04t89/1O/w1cDnyilFU=";
+  	$LINEDatas['token'] = "<YOUR_TOKEN>";
 
 	$messages = [];
 	$messages['replyToken'] = $replyToken;
