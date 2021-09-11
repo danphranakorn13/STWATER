@@ -36,6 +36,10 @@
 
 	function formatMenuMessage()
 	{
+		// $datas = [];
+		// $datas['type'] = 'text';
+		// $datas['text'] = $text;
+
 		$dataJson = '{
 			"type": "flex",
 			"altText": "Flex Message",
@@ -51,7 +55,7 @@
 					  "contents": [
 						{
 						  "type": "image",
-						  "url": "https://danphranakorn.com/stwater/img/picture_info.jpg",
+						  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip7.jpg",
 						  "size": "5xl",
 						  "aspectMode": "cover",
 						  "aspectRatio": "150:196",
@@ -64,7 +68,7 @@
 						  "contents": [
 							{
 							  "type": "image",
-							  "url": "https://danphranakorn.com/stwater/img/picture_info2.jpg",
+							  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip8.jpg",
 							  "size": "full",
 							  "aspectMode": "cover",
 							  "aspectRatio": "150:98",
@@ -137,10 +141,14 @@
 				"type": "bubble",
 				"hero": {
 				  "type": "image",
-				  "url": "https://danphranakorn.com/stwater/img/picture_open.jpg",
+				  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_1_cafe.png",
 				  "size": "full",
 				  "aspectRatio": "20:13",
-				  "aspectMode": "cover"
+				  "aspectMode": "cover",
+				  "action": {
+					"type": "uri",
+					"uri": "http://linecorp.com/"
+				  }
 				},
 				"body": {
 				  "type": "box",
@@ -260,10 +268,14 @@
 				"type": "bubble",
 				"hero": {
 				  "type": "image",
-				  "url": "https://danphranakorn.com/stwater/img/picture_close.jpg",
+				  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_1_cafe.png",
 				  "size": "full",
 				  "aspectRatio": "20:13",
-				  "aspectMode": "cover"
+				  "aspectMode": "cover",
+				  "action": {
+					"type": "uri",
+					"uri": "http://linecorp.com/"
+				  }
 				},
 				"body": {
 				  "type": "box",
@@ -376,6 +388,9 @@
 
 	function formatInfoMessage()
 	{
+		// $datas = [];
+		// $datas['type'] = 'text';
+		// $datas['text'] = $text;
 
 		$dataJson = '{
 			"type": "flex",
@@ -384,10 +399,14 @@
 				"type": "bubble",
 				"hero": {
 				  "type": "image",
-				  "url": "https://danphranakorn.com/stwater/img/picture_info.jpg",
+				  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_1_cafe.png",
 				  "size": "full",
 				  "aspectRatio": "20:13",
-				  "aspectMode": "cover"
+				  "aspectMode": "cover",
+				  "action": {
+					"type": "uri",
+					"uri": "http://linecorp.com/"
+				  }
 				},
 				"body": {
 				  "type": "box",
