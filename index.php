@@ -55,7 +55,7 @@
 					  "contents": [
 						{
 						  "type": "image",
-						  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip7.jpg",
+						  "url": "https://danphranakorn.com/stwater/img/picture_info.jpg",
 						  "size": "5xl",
 						  "aspectMode": "cover",
 						  "aspectRatio": "150:196",
@@ -68,7 +68,7 @@
 						  "contents": [
 							{
 							  "type": "image",
-							  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip8.jpg",
+							  "url": "https://danphranakorn.com/stwater/img/picture_info2.jpg",
 							  "size": "full",
 							  "aspectMode": "cover",
 							  "aspectRatio": "150:98",
@@ -141,7 +141,7 @@
 				"type": "bubble",
 				"hero": {
 				  "type": "image",
-				  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_1_cafe.png",
+				  "url": "https://danphranakorn.com/stwater/img/picture_open.jpg",
 				  "size": "full",
 				  "aspectRatio": "20:13",
 				  "aspectMode": "cover",
@@ -268,7 +268,7 @@
 				"type": "bubble",
 				"hero": {
 				  "type": "image",
-				  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_1_cafe.png",
+				  "url": "https://danphranakorn.com/stwater/img/picture_close.jpg",
 				  "size": "full",
 				  "aspectRatio": "20:13",
 				  "aspectMode": "cover",
@@ -399,7 +399,7 @@
 				"type": "bubble",
 				"hero": {
 				  "type": "image",
-				  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_1_cafe.png",
+				  "url": "https://danphranakorn.com/stwater/img/picture_info.jpg",
 				  "size": "full",
 				  "aspectRatio": "20:13",
 				  "aspectMode": "cover",
